@@ -1,0 +1,14 @@
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.AssemblyInfoInputs.cache
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.AssemblyInfo.cs
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.csproj.CoreCompileInputs.cache
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\bin\Debug\net7.0\CadenasMarkov.exe
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\bin\Debug\net7.0\CadenasMarkov.deps.json
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\bin\Debug\net7.0\CadenasMarkov.runtimeconfig.json
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\bin\Debug\net7.0\CadenasMarkov.dll
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\bin\Debug\net7.0\CadenasMarkov.pdb
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.dll
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\refint\CadenasMarkov.dll
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.pdb
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\CadenasMarkov.genruntimeconfig.cache
+D:\Cadenas De markov\CadenasMarkov\CadenasMarkov\obj\Debug\net7.0\ref\CadenasMarkov.dll
